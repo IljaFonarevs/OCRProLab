@@ -26,4 +26,24 @@
 |9.|MVU vēlas sistēmā redzēt ielādēto dokumentu skaitītāju, jo tas palīdzēs veikt to uzskaiti un kontroli.|Would not have|
 |10.|MVU vēlas grafiskajā interfeisā apskatīt, cik balonus varētu uzpūst ar CO2 emisiju, jo tas uzskatāmi demonstrēs izdalīto gāzi.|Would not have|
 
+# Tehnoloģiju steks
+
+### Servera puse:
+- Satvars: Flask
+- Programmēšanas valoda: Python
+- Datu bāze: SQLite
+- Tīmekļa serveris: Apache
+- OS: Ubuntu
+- Virtualizācija: Oracle VirtualBox
+
+### Klienta puse:
+
+- HTML
+- CSS
+- JavaScript
+- Figma
+- Pārlūkprogramma (Chrome, Edge, Opera, Firefox, Safari, u.c.)
+- Dators
+
+
 #### Komanda: _Artemijs Radionovs, Ilja Fonarevs, Aļģerts Kligulis, Alisa Mamikova, Daniels Tehanovičs, Alina Eksta_
